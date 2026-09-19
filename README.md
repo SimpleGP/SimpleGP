@@ -82,11 +82,13 @@
 ##  GITHUB ANALYTICS
 
 <div align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=SimpleGP&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9"
+       alt="SimpleGP GitHub Stats" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SimpleGP&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGP&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"/>
-
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGP&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"
+       alt="SimpleGP Top Languages" />
 </div>
 
 ---
@@ -94,9 +96,11 @@
 ## 🟩 CONTRIBUTION GRAPH
 
 <div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleGP&bg_color=0D1117&color=10B981&line=10B981&point=6EE7B7&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleGP&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true"
+    alt="SimpleGP Contribution Graph"
+    width="100%"
+  />
 </div>
 
 ---
