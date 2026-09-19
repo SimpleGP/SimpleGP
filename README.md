@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- UNDERTALE RAINBOW ANIMATED HEADER -->
-  <img width="100%" src="./assets/Me.svg" alt="SimpleGP - Software Engineer"/>
+  <img width="100%" src="./assets/Me.svg" alt="SimpleGP"/>
 
   <br>
 
@@ -82,32 +82,28 @@
 ##  GITHUB ANALYTICS
 
 <div align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=SimpleGP&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9"
-       alt="SimpleGP GitHub Stats" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=SimpleGP&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=C9D1D9"
+    alt="SimpleGP GitHub Stats"
+  />
 
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGP&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"
-       alt="SimpleGP Top Languages" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SimpleGP&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=C9D1D9"
+    alt="SimpleGP Top Languages"
+  />
 </div>
 
 ---
 
 ## 🟩 CONTRIBUTION GRAPH
 
+
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleGP&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true"
-    alt="SimpleGP Contribution Graph"
+    src="https://raw.githubusercontent.com/SimpleGP/SimpleGP/activity-assets/activity-30d.svg"
+    alt="SimpleGP Contribution Activity Graph"
     width="100%"
   />
-</div>
-
----
-
-<div align="center">
-
-
-`♥` Mantente determinado. Sigue programando. `♥`
-
 </div>
