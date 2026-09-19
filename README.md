@@ -97,13 +97,9 @@
 
 ---
 
-## 🟩 CONTRIBUTION GRAPH
+##  CONTRIBUTION GRAPH
 
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/SimpleGP/SimpleGP/activity-assets/activity-30d.svg"
-    alt="SimpleGP Contribution Activity Graph"
-    width="100%"
-  />
+  <img src="https://ghchart.rshah.org/10B981/SimpleGP" alt="SimpleGP Contribution Graph" width="100%"/>
 </div>
