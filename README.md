@@ -13,8 +13,6 @@
 
 <div align="center">
 
-💚 **[ GITHUB ](https://github.com/SimpleGP)** 💚
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/giuliano-angel-pelaez-vargas-b5430b338/)
 
 </div>
