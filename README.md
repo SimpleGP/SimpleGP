@@ -5,7 +5,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=60&lines=GOOD+NIGHT+WORLD;SOFTWARE+ENGINEERING;JAVA+%7C+SPRING+BOOT;DETERMINATION+%3D+SUCCESS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=60&lines=GOOD+NIGHT+WORLD;SOFTWARE+ENGINEERING;JAVA+%7C+SPRING+BOOT" />
 
   <br>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-`♥` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `♥`
+
 
 ### 💚 ABOUT ME
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-`♥` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `♥`
+
 
 </div>
 
@@ -46,7 +46,6 @@
 
 ## 💚 TECHNICAL ABILITIES
 
-`♥` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `♥`
 
 ### ▸ BACKEND & PROGRAMMING
 
@@ -64,7 +63,7 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio" />
 
-`♥` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `♥`
+
 
 </div>
 
