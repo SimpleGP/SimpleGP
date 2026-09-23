@@ -23,7 +23,7 @@
 
 
 
-### 💚 ABOUT ME
+###  ABOUT ME
 
 `Si lo puedo imaginar, lo puedo programar.`
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-## 💚 TECHNICAL ABILITIES
+##  TECHNICAL ABILITIES
 
 
 ### ▸ BACKEND & PROGRAMMING
